@@ -27,6 +27,7 @@ ms.suite: ems
 
 
 # Intune quick start guide
+(Please ignore this change request, it's only for test)
 This quick start guide leads you through the steps of setting up a paid subscription of Microsoft Intune to quickly and easily managing the mobile devices and Windows PCs that your organization uses. You can follow each step in order, or just skip ahead if a step is not applicable to your specific environment or business needs.
 
 >[!NOTE]
